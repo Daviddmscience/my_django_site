@@ -42,3 +42,16 @@ h1, h2, h3, h4 {
 .post-form-blog button {
     float: right;
 }
+.top-menu {
+    color: white;
+    float: right;
+    font-size: 26px;
+    margin-right: 20px;
+}
+.top-menu:hover {
+    color:greenyellow;
+    float: right;
+    font-size: 26px;
+    margin-right: 20px;
+    transform: scale(0.75, 0.75)
+}
