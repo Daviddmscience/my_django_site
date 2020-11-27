@@ -35,10 +35,10 @@ h1, h2, h3, h4 {
     border: 2px solid green;
     box-shadow:3px 3px darkgreen;
 }
-.readpost {
-    color:darkgreen;
-    border: 1px dashed darkgreen;
-    padding: 5px;
-    margin: auto;
-    box-sizing: initial;
+
+.post-form-blog textarea {
+    width: 100%;
+}
+.post-form-blog button {
+    float: right;
 }
